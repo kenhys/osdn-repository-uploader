@@ -1,6 +1,6 @@
 module Osdn
   module Repository
-    module Uploaders
+    module Uploader
       VERSION = "0.1.0"
     end
   end
