@@ -1,4 +1,5 @@
 require "osdn/repository/uploader/version"
+require "thor"
 
 module Osdn
   module Repository
